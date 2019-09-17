@@ -11,3 +11,5 @@ The evaluation metric was: AUC-ROC
 
 Public Leaderboard Score: 0.62
 Private Leaderboard Score: 0.63
+
+Hackathon top score: 0.74
